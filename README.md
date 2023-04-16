@@ -14,3 +14,6 @@ Imagine [Transnote](https://www.transnote.co/#features) + [Obsidian Web](https:/
 1. [5 Apps to Take Time-Stamped Notes on YouTube and Learning Courses](https://www.makeuseof.com/time-stamped-notes-youtube-learning-courses/)
 
 ## How 
+As always, sveltekit + chrome extension
+1. <https://github.com/michmich112/sveltekit-adapter-chrome-extension> [article](https://dev.to/michmich112/writing-chrome-extensions-using-svelte-kit-and-manifest-v3-mkd)
+2. <https://github.com/antony/sveltekit-adapter-browser-extension>
